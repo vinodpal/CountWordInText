@@ -1,1 +1,13 @@
+
+
 Given a String and some words find and count words in String file
+
+Intput:
+text = "cpcabbarstteo";
+
+word = {"bag","cat","pot"};
+
+Output:
+Word : bag is Number of Times : 0
+Word : cat is Number of Times : 2
+Word : pot is Number of Times : 1
